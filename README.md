@@ -1,6 +1,15 @@
 ## `--Hello`
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
+### 👨‍🏫 Educational projects
+#### Accessibility
+- [No-Code UX & Accessibility tips for designers, developers and managers](https://uxa11y.substack.com/archive)
+- [Code Accessibility tips](https://deva11y.substack.com/archive)
+#### CSS
+- [CSS "one bite" tips](https://cssisntmagic.substack.com/archive)
+- [You Should Know CSS — the list of questions to level up your CSS skill](https://github.com/melnik909/you-should-know-css)
+- [The live cheat sheet with all nuances about the display property](https://codepen.io/melnik909/full/LYyXreW)
+
 ### 📫 How to reach me:
 - melnik909@ya.ru
 - [Linkedin](https://www.linkedin.com/in/melnik909/)
