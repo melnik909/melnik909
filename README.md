@@ -1,4 +1,9 @@
-### Hi there 👋
+# `--Hello`
+Stas,s in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
+
+## 📫 How to reach me:
+- melnik909@ya.ru
+- [Linkedin](https://www.linkedin.com/in/melnik909/)
 
 <!--
 **melnik909/melnik909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
