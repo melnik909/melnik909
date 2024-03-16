@@ -1,7 +1,9 @@
 ## `--Hello`
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
-### Open source projects
+### 👨‍💻 Open source projects
+- [Typography — a pure CSS tool to style basic typography](https://github.com/melnik909/typography)
+- [CSS Text Loaders — the collection of only text CSS animations](https://github.com/melnik909/pure-css-text-loaders)
 - [HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
 - [The No Pictures Personal Website HTML/CSS Template](https://codepen.io/melnik909/full/VwgaMGv)
 
