@@ -2,8 +2,8 @@
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
 ### Open source projects
-[HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
-[The No Pictures Personal Website HTML/CSS Template](https://codepen.io/melnik909/full/VwgaMGv)
+- [HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
+- [The No Pictures Personal Website HTML/CSS Template](https://codepen.io/melnik909/full/VwgaMGv)
 
 ### 👨‍🏫 Educational projects
 #### Accessibility
