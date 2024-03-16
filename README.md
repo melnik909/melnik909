@@ -1,7 +1,7 @@
-# `--Hello`
+## `--Hello`
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 - melnik909@ya.ru
 - [Linkedin](https://www.linkedin.com/in/melnik909/)
 
