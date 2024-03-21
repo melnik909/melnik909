@@ -7,6 +7,7 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 - [HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
 - [The No Pictures Personal Website HTML/CSS Template](https://codepen.io/melnik909/full/VwgaMGv)
 - [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
+- [Mobile Menu Animation](https://codepen.io/melnik909/full/JpJPYp)
 
 ### 👨‍🏫 Educational projects
 #### Accessibility
