@@ -16,7 +16,7 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 - [You Should Know CSS — the list of questions to level up your CSS skill](https://github.com/melnik909/you-should-know-css)
 - [The live cheat sheet with all nuances about the display property](https://codepen.io/melnik909/full/LYyXreW)
 
-### Readers say
+### 😊 Readers say
 "I have been following Stas for several years, and always pay attention to his posts, even though I consider myself quite knowledgeable about web content production and accessibility. Somehow, Stas consistently manages to dig out the tricky, under-documented cases and present robust solutions for them. He is a master of concision, communicating the key points in brief, simple language. 
 
 From my own teaching experiences, I am painfully aware how difficult this is, especially in a second language. If you have hours to spare, you can gorge yourself on the many other fully-stuffed websites, but if you need leaner insights and rapid enlightenment, turn to Stas.”
