@@ -3,14 +3,12 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 
 ### 👨‍💻 Open source projects
 - [Typography — a pure CSS tool to style basic typography](https://github.com/melnik909/typography)
-- [CSS Text Loaders — the collection of only text CSS animations](https://github.com/melnik909/pure-css-text-loaders)
 - [HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
-- [The No Pictures Personal Website HTML/CSS Template](https://codepen.io/melnik909/full/VwgaMGv)
 - [Mobile Menu Animation](https://codepen.io/melnik909/full/JpJPYp)
 
 ### 🎨 CSS Art
-- [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
 - [The CSS geometric loaders](https://codepen.io/melnik909/full/yLmWadq)
+- [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
 
 ### 👨‍🏫 Educational projects
 #### Accessibility
