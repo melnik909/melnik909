@@ -10,6 +10,7 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 
 ### 🎨 CSS Art
 - [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
+- [The CSS geometric loaders](https://codepen.io/melnik909/full/yLmWadq)
 
 ### 👨‍🏫 Educational projects
 #### Accessibility
