@@ -1,14 +1,14 @@
 ## `--Hello`
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
+### 🎨 CSS Art
+- [The CSS geometric loaders](https://codepen.io/melnik909/full/yLmWadq)
+- [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
+
 ### 👨‍💻 Open source projects
 - [Typography — a pure CSS tool to style basic typography](https://github.com/melnik909/typography)
 - [HTML/CSS Timeline component](https://codepen.io/melnik909/full/qPjwvq)
 - [Mobile Menu Animation](https://codepen.io/melnik909/full/JpJPYp)
-
-### 🎨 CSS Art
-- [The CSS geometric loaders](https://codepen.io/melnik909/full/yLmWadq)
-- [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
 
 ### 👨‍🏫 Educational projects
 #### Accessibility
