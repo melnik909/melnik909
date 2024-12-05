@@ -18,6 +18,11 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 - [CSS "one bite" tips](https://cssisntmagic.substack.com/archive)
 - [You Should Know CSS — the list of questions to level up your CSS skill](https://github.com/melnik909/you-should-know-css)
 
+### ✨ Awards
+- The CSS geometric loaders picked by [Codepen Spark](https://codepen.io/spark/417)
+- Top 7 Featured DEV Posts from the Past Week on [dev.to](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1pc1)
+- CSS and a11y badges on [dev.to](https://dev.to/melnik909)
+  
 ### 😊 Readers say
 "I have been following Stas for several years, and always pay attention to his posts, even though I consider myself quite knowledgeable about web content production and accessibility. Somehow, Stas consistently manages to dig out the tricky, under-documented cases and present robust solutions for them. He is a master of concision, communicating the key points in brief, simple language. 
 
