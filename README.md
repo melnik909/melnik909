@@ -35,4 +35,5 @@ From my own teaching experiences, I am painfully aware how difficult this is, es
 
 ### 📫 How to reach me:
 - melnik909@ya.ru
+- [Telegram](https://t.me/melnik909)
 - [Linkedin](https://www.linkedin.com/in/melnik909/)
