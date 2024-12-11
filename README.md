@@ -20,6 +20,7 @@ Stas is in touch. I'm a man with two passions. The first — to make UI more inc
 
 ### ✨ Awards
 - The CSS geometric loaders were picked by [Codepen Spark](https://codepen.io/spark/417)
+- I'm in the top 4th author by the CSS topic and the 1th by the accessibility topic [on HABR, Russian collaborative blog about IT](https://habr.com/ru/users/melnik909/)
 - Top 7 Featured DEV Posts from the Past Week on [dev.to](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1pc1)
 - CSS and a11y badges on [dev.to](https://dev.to/melnik909)
   
