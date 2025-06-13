@@ -35,6 +35,5 @@ From my own teaching experiences, I am painfully aware how difficult this is, es
 [More feedback](https://github.com/melnik909/melnik909/blob/main/feedback.md)
 
 ### 📫 How to reach me:
-- melnik909@ya.ru
 - [Telegram](https://t.me/melnik909)
 - [Linkedin](https://www.linkedin.com/in/melnik909/) is blocked by Linkedin for an unknown reason
