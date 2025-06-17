@@ -2,8 +2,8 @@
 Stas is in touch. I'm a man with two passions. The first — to make UI more inclusive for people. The second — to help learning  Accessibility and CSS. 
 
 ### 🎨 CSS Art
-- [The text-only CSS loaders](https://codepen.io/melnik909/full/JoPJXNN)
 - [The CSS geometric loaders](https://codepen.io/melnik909/full/yLmWadq)
+- [The text-only CSS loaders](https://codepen.io/melnik909/full/JoPJXNN)
 - [CSS Simba](https://codepen.io/melnik909/full/qaOwqV)
 
 ### 👨‍💻 Open source projects
